@@ -68,7 +68,7 @@ namespace ServerApplication
                 if (strCmdText != "")
                 {
                     PACSURLPluginPath = "\"" + portalPath + @"\PACSURLPlugin.exe" + "\"";
-                    //System.Diagnostics.Process.Start("\"C:\\Program Files (x86)\\Philips IntelliSpace Portal\\System\\PACSURLPlugin.exe\"",strCmdText);
+                    //System.Diagnostics.Process.Start("\"C:\\Program Files (x86)\\Philips IntelliSpace Portal\\System\\PACSURLPlugin.exe\"",strCmdText); 
                     System.Diagnostics.Process.Start(PACSURLPluginPath, strCmdText);
                 }
 
