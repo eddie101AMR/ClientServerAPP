@@ -1,0 +1,7 @@
+c:\users\310252207\documents\visual studio 2013\Projects\ClientApplication\ServerApplication\obj\Debug\ServerApplication.csprojResolveAssemblyReference.cache
+c:\users\310252207\documents\visual studio 2013\Projects\ClientApplication\ServerApplication\bin\Debug\ServerApplication.exe.config
+c:\users\310252207\documents\visual studio 2013\Projects\ClientApplication\ServerApplication\bin\Debug\ServerApplication.exe
+c:\users\310252207\documents\visual studio 2013\Projects\ClientApplication\ServerApplication\bin\Debug\ServerApplication.pdb
+c:\users\310252207\documents\visual studio 2013\Projects\ClientApplication\ServerApplication\obj\Debug\ServerApplication.exe
+c:\users\310252207\documents\visual studio 2013\Projects\ClientApplication\ServerApplication\obj\Debug\ServerApplication.pdb
+C:\Users\310252207\Documents\Visual Studio 2013\Projects\ClientApplication\ServerApplication\bin\Debug\Tamir.SharpSsh.dll
