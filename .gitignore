@@ -6,3 +6,8 @@
 /ClientApplication/obj/Release/CoreCompileInputs.cache
 /ServerApplication/obj/Debug/CoreCompileInputs.cache
 /ServerApplication/obj/Release/CoreCompileInputs.cache
+/ClientApplication/bin
+bin
+/ServerApplication/bin
+/ClientApplication/obj
+/ServerApplication/obj
