@@ -24,7 +24,10 @@ namespace ServerApplication
         private static string port;
         private static string portalPath;
 
-
+        /// <summary>
+        /// main method
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             try
