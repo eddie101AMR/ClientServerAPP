@@ -11,3 +11,4 @@ bin
 /ServerApplication/bin
 /ClientApplication/obj
 /ServerApplication/obj
+/.vs/VSWorkspaceState.json
