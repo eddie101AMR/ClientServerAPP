@@ -1,0 +1,8 @@
+/.vs/ClientApplication/v15/.suo
+/.vs/ClientServerAPP/v15/.suo
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/ClientApplication/obj/Debug/CoreCompileInputs.cache
+/ClientApplication/obj/Release/CoreCompileInputs.cache
+/ServerApplication/obj/Debug/CoreCompileInputs.cache
+/ServerApplication/obj/Release/CoreCompileInputs.cache
