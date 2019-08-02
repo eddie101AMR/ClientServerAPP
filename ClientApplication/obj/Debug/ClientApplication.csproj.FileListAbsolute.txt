@@ -1,7 +1,0 @@
-c:\users\310252207\documents\visual studio 2013\Projects\ClientApplication\ClientApplication\bin\Debug\ClientApplication.exe.config
-c:\users\310252207\documents\visual studio 2013\Projects\ClientApplication\ClientApplication\bin\Debug\ClientApplication.exe
-c:\users\310252207\documents\visual studio 2013\Projects\ClientApplication\ClientApplication\bin\Debug\ClientApplication.pdb
-c:\users\310252207\documents\visual studio 2013\Projects\ClientApplication\ClientApplication\obj\Debug\ClientApplication.exe
-c:\users\310252207\documents\visual studio 2013\Projects\ClientApplication\ClientApplication\obj\Debug\ClientApplication.pdb
-C:\Users\310252207\Documents\Visual Studio 2013\Projects\ClientApplication\ClientApplication\bin\Debug\Tamir.SharpSsh.dll
-C:\Users\310252207\Documents\Visual Studio 2013\Projects\ClientApplication\ClientApplication\obj\Debug\ClientApplication.csprojResolveAssemblyReference.cache
