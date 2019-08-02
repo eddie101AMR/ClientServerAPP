@@ -25,7 +25,7 @@ namespace ServerApplication
         private static string portalPath;
 
         /// <summary>
-        /// main method Faten
+        /// main method Faten - From Eddie Branch
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
