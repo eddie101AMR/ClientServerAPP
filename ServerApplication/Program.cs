@@ -25,7 +25,7 @@ namespace ServerApplication
         private static string portalPath;
 
         /// <summary>
-        /// main method
+        /// main method Faten
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
@@ -48,6 +48,7 @@ namespace ServerApplication
             }
         }
 
+        
         private static void RecieveMessage()
         {
             string PACSURLPluginPath = "";
@@ -79,7 +80,7 @@ namespace ServerApplication
                 OpenConnection();
             }
         }
-
+        
         private static void OpenConnection()
         {
             /* Start Listeneting at the specified port */
